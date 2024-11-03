@@ -66,4 +66,4 @@ Pull Request(PR)를 통해 서로의 코드를 공유하고 리뷰합니다.
 ---
 
 #### 2024년 11월 03일
-(N-Queen)[https://www.acmicpc.net/problem/9663]
+https://www.acmicpc.net/problem/9663
